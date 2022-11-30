@@ -332,9 +332,11 @@ quais seus passatempos*Meus preferidos são os de galak, de doce de leite e o tr
 o que voce e*Seu amigo :)
 o que voce faz*Organizo rinhas de anões valendo um fardo de pitu 
 adam*Sou eu!
-ola adam*ola colega
+ola adam*Olá colega!
 oi adam*Oi :)
 ei adam*Diga
+tudo bem adam*Tudo ótimo e com voce?
+tudo bom adam*Tudo ótimo e com voce?
 o que sao os padroes de projeto*São soluções para problemas comuns que encontramos no desenvolvimento ou manutenção de um software
 o que sao os design patterns*São soluções para problemas comuns que encontramos no desenvolvimento ou manutenção de um software
 padroes de projeto*O que quer saber sobre eles?
@@ -359,6 +361,7 @@ quero saber sobre o gang of four*O Gang Of Four Design Patterns foi criado por 4
 
 quantos padroes de projeto existem*Existem diversos Padrões de Projetos, mas de acordo com o livro: "Padrões de Projeto: soluções reutilizáveis de software orientado a objetos", os padrões "GoF" são divididos em 23 tipos.
 quais as categorias do gof*Dentro dos padrões GoF, temos 3 grupos que são: Os Criacionais, Estruturais e Comportamentais. Os padrões criacionais abstraem o processo de criação dos objetos. Os estruturais lidam com a composição de classes ou objetos. Já os comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
+quais as familias de padroes do gof*Dentro dos padrões GoF, temos 3 grupos que são: Os Criacionais, Estruturais e Comportamentais. Os padrões criacionais abstraem o processo de criação dos objetos. Os estruturais lidam com a composição de classes ou objetos. Já os comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
 quais as familias do gof*Dentro dos padrões GoF, temos 3 grupos que são: Os Criacionais, Estruturais e Comportamentais. Os padrões criacionais abstraem o processo de criação dos objetos. Os estruturais lidam com a composição de classes ou objetos. Já os comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
 quais as familias da gang dos quatro*Dentro dos padrões GoF, temos 3 grupos que são: Os Criacionais, Estruturais e Comportamentais. Os padrões criacionais abstraem o processo de criação dos objetos. Os estruturais lidam com a composição de classes ou objetos. Já os comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
 quais as familias da gang dos 4*Dentro dos padrões GoF, temos 3 grupos que são: Os Criacionais, Estruturais e Comportamentais. Os padrões criacionais abstraem o processo de criação dos objetos. Os estruturais lidam com a composição de classes ou objetos. Já os comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
@@ -366,13 +369,13 @@ quais os grupos da gang dos quatro*Dentro dos padrões GoF, temos 3 grupos que s
 quais os grupos do gof*Dentro dos padrões GoF, temos 3 grupos que são: Os Criacionais, Estruturais e Comportamentais. Os padrões criacionais abstraem o processo de criação dos objetos. Os estruturais lidam com a composição de classes ou objetos. Já os comportamentais caracterizam as maneiras pelas quais classes ou objetos interagem e distribuem responsabilidades.
 
 quais sao os padroes criacionais*São os Objetos: Abstract Factory, Builder, Prototype e Singleton; e a classe Factory Method.
-me fale mais sobre os padroes criacionais*
+me fale mais sobre os padroes criacionais*Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.
 
 quais sao os padroes estruturais*São: Adapter, Bridge, Composite, Decorator, Facade, Flyweight e Proxy.
-me fale mais sobre os padroes estruturais*
+me fale mais sobre os padroes estruturais*Os padrões estruturais explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.
 
 quais sao os padroes comportamentais*São os Objetos: Chain of Responsability, Command, Iterator, Mediator, Memento, Observer, State, Strategy e Visitor; e as classes Interpreter e Template Method. 
-me fale mais sobre os padroes comportamentais*
+me fale mais sobre os padroes comportamentais*Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos.
 
 o que significa a sigla gof*Significa Gang of Four ou Gangue dos Quatro em português.
 

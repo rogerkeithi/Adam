@@ -11,7 +11,7 @@ Foi desenvolvido utilizando a linguagem JAVA tanto para interface quanto para o 
 
 Você deve ter instalado em sua máquina o JDK (de preferência da versão 18 para cima) e uma IDE (de preferência a IDE Apache NetBeans).
 
-1º passo - Clone o repositório (git clone https://github.com/rogerkeithi/adam)
+1º passo - Clone o repositório (git clone https://github.com/rogerkeithi/Adam)
 
 2º passo - Abra o projeto Adam na sua IDE
 
